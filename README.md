@@ -11,7 +11,7 @@ In a real-world scenario, an ERP database could be leveraged to fetch this data 
 
 <img width="498" alt="containerinfoCSV" src="https://github.com/ojasbhanarkar04/shipping-container-loading-optimization/assets/166156913/1f280da8-4466-41cc-af73-ef8c696e0901">
 
-<img width="444" alt="containerviz" src="https://github.com/ojasbhanarkar04/shipping-container-loading-optimization/assets/166156913/bb2c29fd-4aee-4c0f-8eea-82ebf757da95">
+<img width="344" alt="containerviz" src="https://github.com/ojasbhanarkar04/shipping-container-loading-optimization/assets/166156913/bb2c29fd-4aee-4c0f-8eea-82ebf757da95">
 
  
 Another enhancement to the original code was to fix the frame of the displayed visualization which makes it less confusing to interpret.
