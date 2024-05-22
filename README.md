@@ -2,7 +2,7 @@
 
 This project aims to provide a 2D visualization solution to optimize space on box loading inside shipping containers. 
  
-It is heavily based on the following article by Samir Saci: https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7
+It is based on the following article by Samir Saci: https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7
 
 It uses Rectpack, a Python library containing a collection of algorithms to solve 2D knapsack problems, to pack boxes of different sizes in the most space-optimized manner inside the shipping container.
 
