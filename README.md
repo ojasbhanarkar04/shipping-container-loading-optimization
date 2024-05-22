@@ -1,6 +1,6 @@
 # Shipping Container Loading Optimization
 
-This project aims to provide a 2D visualization solution to optimize space on box loading inside shipping containers. 
+This project aims to provide an enhanced version of a 2D visualization solution to optimize space on box loading inside shipping containers. 
  
 It is based on the following article by Samir Saci: https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7
 
