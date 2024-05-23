@@ -16,4 +16,4 @@ In a real-world scenario, a supply chain ERP database could be leveraged to fetc
 
 
  
-Another enhancement to the original code was to fix the frame of the displayed visualization which makes it easier to interpret.
+Another enhancement to the original code was to fix the frame of the displayed visualization to make it easier to interpret.
