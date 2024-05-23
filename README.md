@@ -4,7 +4,7 @@ This project aims to provide an enhanced version of a 2D visualization solution 
  
 It is based on the following article by Samir Saci: https://towardsdatascience.com/maximize-the-loading-capacity-of-a-sea-container-to-reduce-your-shipping-costs-with-python-8cc02c9725a7
 
-It uses Rectpack, a Python library containing a collection of algorithms to solve 2D knapsack problems, for packing boxes of different sizes in the most space-optimized manner inside the shipping container.
+It uses Rectpack, a Python library containing a collection of algorithms to solve 2D knapsack problems, for packing boxes of different sizes in the most space-optimized manner inside a shipping container.
 
 One of the enhancements done to Samir's code was to use CSV file input over manual input. The file has the following fields: Container, Delivery Number, Box Number, BoxDims.
 In a real-world scenario, a supply chain ERP database could be leveraged to fetch this data into the CSV file before further processing.
