@@ -16,4 +16,4 @@ In a real-world scenario, an ERP database could be leveraged to fetch this data 
 
 
  
-Another enhancement to the original code was to fix the frame of the displayed visualization which makes it less confusing to interpret.
+Another enhancement to the original code was to fix the frame of the displayed visualization which makes it easier to interpret.
